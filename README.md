@@ -12,9 +12,16 @@ Neuroscience research, software engineering, and big data
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
 ### 📊 Github stats
+<p align="center">
 <a href="https://github.com/caniko/caniko">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caniko&hide=html,css,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/caniko/caniko">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=caniko&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Caniko's GitHub Stats" />
 </a>
+
+
+
+<p align="center">
+<a href="https://www.buymeacoffee.com/caniko" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+</p>
