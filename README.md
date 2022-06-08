@@ -23,5 +23,7 @@ Neuroscience research, software engineering, and big data
 
 
 <p align="center">
-<a href="https://www.buymeacoffee.com/caniko" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+  <a href="https://www.buymeacoffee.com/caniko" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+  <br>
+  I also appreciate GitHub sponsorhips
 </p>
