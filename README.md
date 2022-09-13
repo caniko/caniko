@@ -8,7 +8,7 @@ Neuroscience and informatics are sciences that deal with the theory of informati
 My goal is to play a significant role in the inevitable renaissance of these two sciences. I am a self-proclaimed [neuroengineer](https://en.wikipedia.org/wiki/Neural_engineering), and currently a Ph. D. candidate in computational neuroscience.
 
 ## Fun developer facts 🤠
-- I use [Garuda Linux](https://garudalinux.org/) as my daily OS driver.
+- I use [Garuda Linux](https://garudalinux.org/) as OS in my daily driver.
 - I find XR technologies very interesting.
 - Most of my activities on GitHub is quality of life improvements for those working in life sciences; most often focused on the neurosciences
 
