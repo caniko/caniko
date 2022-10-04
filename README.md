@@ -5,7 +5,7 @@
 ## Career philosophy 🎓
 Neuroscience and informatics deal with the information in different mediums, biological systems and silicon/metal. Interfacing these media presents new opportunities in medicine, pharmacolagy, and improvements in data density in storage systems. Being a neuroengineer, my ambition is to play a role in bridging this divide.
 
-## Software interests
+## Software interests 💻
 - I use [Garuda Linux](https://garudalinux.org/) as OS in my daily driver.
 - I find XR technologies very interesting.
 - Most of my activities on GitHub is quality of life improvements for those working in life sciences; most often focused on the neurosciences
