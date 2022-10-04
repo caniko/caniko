@@ -1,7 +1,5 @@
 ### Hobbies 🎮🏋️‍♂️🏄‍♂️🏃‍♂️
 
-### Skills 💻🧠
-
 ## Career philosophy 🎓
 Neuroscience and informatics deal with the information in different mediums, biological systems and silicon/metal. Interfacing these media presents new opportunities in medicine, pharmacolagy, and improvements in data density in storage systems. Being a neuroengineer, my ambition is to play a role in bridging this divide.
 
