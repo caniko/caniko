@@ -1,7 +1,7 @@
 ### Hobbies 🎮🏋️‍♂️🏄‍♂️🏃‍♂️
 
 ## Career philosophy 🎓
-Neuroscience and informatics deal with the information in different mediums—biological systems and semi-conductors. Interfaces between the media presents new opportunities in medicine, pharmacology, artificial intelligence, and data science. I wish to take part in making this interface.
+Neuroscience and informatics deal with the information in different mediums—biological systems and semi-conductors. Interfaces between the media presents new opportunities in medicine, pharmacology, artificial intelligence, and data science. I wish to take part in engineering this brain-machine interface.
 
 ## Software interests 💻
 - I use [Garuda Linux](https://garudalinux.org/) as OS in my daily driver.
