@@ -1,12 +1,12 @@
 ### Hobbies 🎮🏋️‍♂️🏄‍♂️🏃‍♂️
 
-## Career philosophy 🎓
-Neuroscience and informatics deal with the information in different mediums—biological systems and semi-conductors. Interfaces between the media presents new opportunities in medicine, pharmacology, artificial intelligence, and data science. I wish to take part in engineering this brain-machine interface.
+## My mission 🥷🏻
+Neuroscience and informatics deal with the same information that are computed in different media—biological systems and engineered processing units. Interfaces between the two presents new opportunities in medicine, pharmacology, artificial intelligence, and data science. My goal is to accelerate this effort.
 
-### I am working on 🔭
+### Currently working on 🔭
 Neuroscience research, software engineering, and big data.
 
-## Software interests 💻
+## GitHub-related facts 💻
 - My daily driver is [Garuda Linux](https://garudalinux.org/).
 - XR technologies are very interesting.
 - Most of my activities on GitHub is quality of life improvements for those working in life sciences; most often focused on the neurosciences.
@@ -17,7 +17,7 @@ Neuroscience research, software engineering, and big data.
 <a href="https://twitter.com/canhtart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/9793651" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40" /></a>
 
-### My toolbox 🧰
+## My toolbox 🧰
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
