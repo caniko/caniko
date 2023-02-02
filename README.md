@@ -34,10 +34,5 @@ Neuroscience research, software engineering, and big data.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=caniko&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Caniko's GitHub Stats" />
 </a>
 
-
-
 <p align="center">
   <a href="https://www.buymeacoffee.com/caniko" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-  <br>
-  I also appreciate GitHub sponsorhips
-</p>
