@@ -1,10 +1,12 @@
+### [My CV](https://github.com/caniko/CourseOfLife/blob/trunk/cv.pdf) 📜
+
 ### Hobbies 🎮🏋️‍♂️🏄‍♂️🏃‍♂️
 
 ## My mission 🥷🏻
 Neuroscience and informatics deal with the same information that are computed in different media—biological systems and engineered processing units. Interfaces between the two presents new opportunities in medicine, pharmacology, artificial intelligence, and data science. My goal is to accelerate this effort.
 
 ### Currently working on 🔭
-Neuroscience research, software engineering, and big data.
+Finalizing my Ph. D. project; making the life of neuroscientists easier with FOSS projects; staying positive.
 
 ## GitHub-related facts 💻
 - My daily driver is [Garuda Linux](https://garudalinux.org/).
