@@ -1,7 +1,5 @@
 ### [Course through life (CV)](https://github.com/caniko/CourseOfLife/blob/trunk/cv.pdf) ⛵
 
-### Hobbies 🎮🏋️‍♂️🏄‍♂️🏃‍♂️
-
 ## My mission 🥷🏻
 Neuroscience and informatics deal with the same information that are computed in different media—biological systems and engineered processing units. Interfaces between the two presents new opportunities in medicine, pharmacology, artificial intelligence, and data science. My goal is to accelerate this effort.
 
@@ -12,6 +10,8 @@ Finalizing my Ph. D. project; making the life of neuroscientists easier with FOS
 - My daily driver is [Garuda Linux](https://garudalinux.org/).
 - XR technologies are very interesting.
 - Most of my activities on GitHub is quality of life improvements for those working in life sciences; most often focused on the neurosciences.
+
+### Sports 🎮🏋️‍♂️🏄‍♂️🏃‍♂️
 
 ## Social media 📱
 <a href="https://www.instagram.com/caniko_ht/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
