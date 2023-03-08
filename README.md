@@ -1,4 +1,4 @@
-### [Course through life (CV)](https://github.com/caniko/CourseOfLife/blob/trunk/cv.pdf) 📜
+### [Course through life (CV)](https://github.com/caniko/CourseOfLife/blob/trunk/cv.pdf) ⛵
 
 ### Hobbies 🎮🏋️‍♂️🏄‍♂️🏃‍♂️
 
