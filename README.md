@@ -1,5 +1,3 @@
-### [Course through life (CV)](https://github.com/caniko/CourseOfLife/blob/trunk/cv.pdf) ⛵
-
 ## My mission 🥷🏻
 Neuroscience and informatics deal with the same information that are computed in different media—biological systems and engineered processing units. Interfaces between the two presents new opportunities in medicine, pharmacology, artificial intelligence, and data science. My goal is to accelerate this effort.
 
@@ -31,6 +29,8 @@ Finalizing my Ph. D. project; making the life of neuroscientists easier with FOS
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://cassandra.apache.org/_/index.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="apache_cassandra" width="40" height="40"/> </a>
 <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
+
+### [Course through life (CV)](https://github.com/caniko/CourseOfLife/blob/trunk/cv.pdf) ⛵
 
 ### 📊 Github stats
 <p align="center">
