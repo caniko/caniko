@@ -32,7 +32,7 @@ Finalizing my Ph. D. project; making the life of neuroscientists easier with FOS
 
 ### [Course through life (CV)](https://github.com/caniko/CourseOfLife/blob/trunk/cv.pdf) ⛵
 
-### 📊 Github stats
+### Statistics
 <p align="center">
 <a href="https://github.com/caniko/caniko">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=caniko&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Caniko's GitHub Stats" />
