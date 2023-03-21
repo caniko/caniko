@@ -4,7 +4,7 @@ Neuroscience and informatics deal with the same information that are computed in
 ### Currently working on 🔭
 Finalizing my Ph. D. project; making the life of neuroscientists easier with FOSS projects; staying positive.
 
-## GitHub-related facts 💻
+## Me and Software 💻
 - My daily driver is [Garuda Linux](https://garudalinux.org/).
 - XR technologies are very interesting.
 - Most of my activities on GitHub is quality of life improvements for those working in life sciences; most often focused on the neurosciences.
