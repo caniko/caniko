@@ -4,10 +4,10 @@ Neuroscience and informatics deal with the same information that are computed in
 ### Currently working on 🔭
 Finalizing my Ph. D. project; making the life of neuroscientists easier with FOSS projects; staying positive.
 
-## Me and Software 💻
-- My daily driver is [Garuda Linux](https://garudalinux.org/).
-- XR technologies are very interesting.
-- Most of my activities on GitHub is quality of life improvements for those working in life sciences; most often focused on the neurosciences.
+### Opinions on technology 💻
+- My daily [operating system (OS)](https://en.wikipedia.org/wiki/Operating_system) is [Garuda Linux](https://garudalinux.org/)
+- [XR](https://en.wikipedia.org/wiki/Extended_reality) and [Ethereum](https://en.wikipedia.org/wiki/Ethereum) are very promissing
+- I would like to see techonology organizations adopt a [non-profit](https://en.wikipedia.org/wiki/Nonprofit_organization) [co-op](https://en.wikipedia.org/wiki/Cooperative) model
 
 ### Sports 🎮🏋️‍♂️🏄‍♂️🏃‍♂️
 
