@@ -10,8 +10,8 @@ Finalizing my Ph. D. project; making the life of neuroscientists easier with FOS
 
 ### Opinions on technology 💻
 - My daily [operating system (OS)](https://en.wikipedia.org/wiki/Operating_system) is [Garuda Linux](https://garudalinux.org/)
-- [XR](https://en.wikipedia.org/wiki/Extended_reality) and [Ethereum](https://en.wikipedia.org/wiki/Ethereum) are very promissing
-- I would like to see techonology organizations adopt a [non-profit](https://en.wikipedia.org/wiki/Nonprofit_organization) [co-op](https://en.wikipedia.org/wiki/Cooperative) model
+- [XR](https://en.wikipedia.org/wiki/Extended_reality) and [Ethereum](https://en.wikipedia.org/wiki/Ethereum) technologies
+- Techonology companies must adopt a [non-profit](https://en.wikipedia.org/wiki/Nonprofit_organization) [co-op](https://en.wikipedia.org/wiki/Cooperative) model to be pro-consumer
 
 ### Sports 🎮🏋️‍♂️🏄‍♂️🏃‍♂️
 
