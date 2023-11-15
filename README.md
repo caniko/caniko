@@ -8,10 +8,12 @@ Neuroscience and informatics deal with the same information that are computed in
 ### Currently working on 🔭
 Finalizing my Ph. D. project; making the life of neuroscientists easier with FOSS projects; staying positive.
 
-### Opinions on technology 💻
-- My daily [operating system (OS)](https://en.wikipedia.org/wiki/Operating_system) is [Garuda Linux](https://garudalinux.org/)
-- [XR](https://en.wikipedia.org/wiki/Extended_reality) and [Ethereum](https://en.wikipedia.org/wiki/Ethereum) technologies
-- Techonology companies must adopt a [non-profit](https://en.wikipedia.org/wiki/Nonprofit_organization) [co-op](https://en.wikipedia.org/wiki/Cooperative) model to be pro-consumer
+### Opinions on technology ⚛️
+- My daily [operating system (OS)](https://en.wikipedia.org/wiki/Operating_system) is [Garuda Linux](https://garudalinux.org/) 🦅
+- [XR](https://en.wikipedia.org/wiki/Extended_reality) and [Ethereum](https://en.wikipedia.org/wiki/Ethereum) are interesting 🤖
+- Bitcoin is currently the best store of value 🫰🏻
+- Technology companies must adopt a [non-profit](https://en.wikipedia.org/wiki/Nonprofit_organization) [co-op](https://en.wikipedia.org/wiki/Cooperative) model to be pro-consumer 🫂
+- Research, currently governed by national interests, ought to adopt a more international approach 🔬
 
 ### Sports 🎮🏋️‍♂️🏄‍♂️🏃‍♂️
 
