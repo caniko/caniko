@@ -9,7 +9,7 @@ Neuroscience and informatics deal with the same information that are computed in
 Finalizing my Ph. D. project; making the life of neuroscientists easier with FOSS projects; staying positive.
 
 ### Opinions on technology ⚛️
-- My daily [operating system (OS)](https://en.wikipedia.org/wiki/Operating_system) is [Garuda Linux](https://garudalinux.org/) 🦅
+- My daily [operating system (OS)](https://en.wikipedia.org/wiki/Operating_system) is [Garuda Linux](https://garudalinux.org/), and will switch to [NixOS](https://nixos-and-flakes.thiscute.world/) 🦅
 - [XR](https://en.wikipedia.org/wiki/Extended_reality) and [Ethereum](https://en.wikipedia.org/wiki/Ethereum) are interesting 🤖
 - Bitcoin is currently the best store of value 🫰🏻
 - Technology companies must adopt a [non-profit](https://en.wikipedia.org/wiki/Nonprofit_organization) [co-op](https://en.wikipedia.org/wiki/Cooperative) model to be pro-consumer 🫂
