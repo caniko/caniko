@@ -1,6 +1,6 @@
 <h3 align="center"><a href="https://gitlab.com/caniko">My GitLab 🦊</a></h3>
 
-<h3 align="center"><a href="https://github.com/caniko/CourseOfLife/blob/trunk/cv_compressed.pdf">Course through life (CV) ⛵</a></h3>
+<h3 align="center"><a href="https://github.com/caniko/CourseOfLife/blob/trunk/cv-compressed.pdf">Course through life (CV) ⛵</a></h3>
 
 ### My mission 🥷🏻
 Neuroscience and informatics deal with the same information that are computed in different media—biological systems and engineered processing units. Interfaces between the two presents new opportunities in medicine, pharmacology, artificial intelligence, and data science. My goal is to accelerate this effort.
