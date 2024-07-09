@@ -13,7 +13,7 @@ Finalizing my Ph. D. project; making the life of neuroscientists easier with FOS
 - 🤖 [XR](https://en.wikipedia.org/wiki/Extended_reality) and [Ethereum](https://en.wikipedia.org/wiki/Ethereum) are interesting
 - 🫰🏻 Bitcoin is currently the best store of value
 - 🫂 Technology companies must adopt a [non-profit](https://en.wikipedia.org/wiki/Nonprofit_organization) [co-op](https://en.wikipedia.org/wiki/Cooperative) model to be pro-consumer
-- 💢 Cloud computing and derived products are for minimum viable product implementations. In the long-term including infrastructure should be owned or rented by the product stakeholders—K8 and infrastructure as code FTW!
+- 💢 Cloud computing and derived products are for minimum viable product implementations. In the long-term, infrastructure should be owned or rented by the product stakeholders—K8 and infrastructure as code FTW!
 
 ### 💬 My languages
 `.mojo` `.py` `.go` `.cs` `.rs` `.norwegian` `.english` `.turkish`
