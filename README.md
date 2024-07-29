@@ -24,7 +24,7 @@ Finalizing my Ph. D. project; making the life of neuroscientists easier with FOS
 ### 🧰 Tools
 `Linux` `Kubernetes` `OpenTofu/Terraform` `nix`
 
-#### OS: [NixOS](https://nixos-and-flakes.thiscute.world/)
+#### OS: [NixOS](https://nixos.org/)
 
 ### Sports 🎮🏋️‍♂️🏄‍♂️🏃‍♂️🧗
 
