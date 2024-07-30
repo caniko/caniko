@@ -1,6 +1,16 @@
-<h3 align="center"><a href="https://gitlab.com/caniko">My GitLab 🦊</a></h3>
+<div align="center">
+  <h3><a href="https://gitlab.com/caniko">My GitLab 🦊</a></h3>
+  
+  <h3><a href="https://github.com/caniko/CourseOfLife/blob/trunk/cv-compressed.pdf">Course through life (CV) ⛵</a></h3>
 
-<h3 align="center"><a href="https://github.com/caniko/CourseOfLife/blob/trunk/cv-compressed.pdf">Course through life (CV) ⛵</a></h3>
+  <p>
+    🎮 🏂🏻 🏋️‍♂️ 🧘🏼‍♂️
+    <a href="https://visitcount.itsvg.in">
+      <img src="https://visitcount.itsvg.in/api?id=caniko&label=Profile%20Views&color=1&icon=0&pretty=true" />
+    </a>
+    🏃‍♂️ 🧗 🏊🏻‍♂️ 🏄‍♂️
+  </p>
+</div>
 
 ### 🥷🏻 Mission
 Neuroscience and informatics deal with the same information that are computed in different media—biological systems and engineered processing units. Interfaces between the two presents new opportunities in medicine, pharmacology, artificial intelligence, and data science. My goal is to accelerate this effort.
