@@ -4,11 +4,7 @@
   <h3><a href="https://github.com/caniko/CourseOfLife/blob/trunk/cv-compressed.pdf">Course through life (CV) ⛵</a></h3>
 
   <p>
-    🎮 🏂🏻 🏋️‍♂️ 🧘🏼‍♂️
-    <a href="https://visitcount.itsvg.in">
-      <img src="https://visitcount.itsvg.in/api?id=caniko&label=Profile%20Views&color=1&icon=0&pretty=true" />
-    </a>
-    🏃‍♂️ 🧗 🏊🏻‍♂️ 🏄‍♂️
+    🎮 🏂🏻 🏋️‍♂️ 🧘🏼‍♂️ 🏃‍♂️ 🧗 🏊🏻‍♂️ 🏄‍♂️
   </p>
 </div>
 
@@ -16,7 +12,7 @@
 Neuroscience and informatics deal with the same information that are computed in different media—biological systems and engineered processing units. Interfaces between the two presents new opportunities in medicine, pharmacology, artificial intelligence, and data science. My goal is to accelerate this effort.
 
 ### 🔭 Occupation
-Finalizing my Ph. D. project; making the life of neuroscientists easier with FOSS projects; staying positive.
+Finalizing my Ph. D. project; making the life of engineers easier with FOSS projects; staying positive.
 
 ### ⚛️ Opinions on technology
 - 🔬 Research, currently governed by national interests, ought to adopt a more international approach
