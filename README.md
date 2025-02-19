@@ -9,7 +9,7 @@
 </div>
 
 ### 💬 My languages
-`.mojo` `.py` `.go` `.cs` `.rs` `.norwegian` `.english` `.turkish`
+`.rs` `.mojo` `.py` `.go` `.cs` `.norwegian` `.english` `.turkish`
 
 ### 📀 Databases
 `TiKV` `Scylla/Cassandra` `PostgreSQL` `Redis` `KeyDB`
