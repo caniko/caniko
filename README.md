@@ -9,10 +9,10 @@
 </div>
 
 ### 💬 My languages
-`.rs` `.mojo` `.py` `.go` `.cs` `.norwegian` `.english` `.turkish`
+`.rs` `.mojo` `.py` `.go` `.cs` `.sol` `.norwegian` `.english` `.turkish`
 
 ### 📀 Databases
-`TiKV` `Scylla/Cassandra` `PostgreSQL` `Redis` `KeyDB`
+`TiKV` `Scylla/Cassandra` `PostgreSQL` `Redis` `Skytable`
 
 ### 🧰 Tools
 `Linux` `Kubernetes` `OpenTofu/Terraform` `nix`
