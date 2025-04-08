@@ -17,7 +17,7 @@
 ### 🧰 Tools
 `Linux` `Kubernetes` `OpenTofu/Terraform`
 
-#### OS: [NixOS](https://nixos.org/)
+#### OS: [NixOS](https://nixos.org/) + [Cosmic](https://system76.com/cosmic/)
 
 ### Sports 🎮🏋️‍♂️🏄‍♂️🏃‍♂️🧗
 
