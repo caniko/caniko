@@ -12,7 +12,7 @@
 `.rs` `.mojo` `.py` `.nix` `.go` `.cs` `.sol` `.norwegian` `.english` `.turkish`
 
 ### 📀 Databases
-`TiKV` `Scylla/Cassandra` `PostgreSQL` `Redis` `Skytable`
+`Scylla/Cassandra` `PostgreSQL` `Redis` `TiKV` `ClickHouse`
 
 ### 🧰 Tools
 `Linux` `Kubernetes` `OpenTofu/Terraform`
