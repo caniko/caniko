@@ -1,7 +1,7 @@
 <div align="center">
   <h3><a href="https://gitlab.com/caniko">My GitLab 🦊</a></h3>
   
-  <h3><a href="https://github.com/caniko/CourseOfLife/blob/trunk/cv-compressed.pdf">Course through life (CV) ⛵</a></h3>
+  <h3><a href="https://github.com/caniko/CourseOfLife/blob/trunk/cv.pdf">Course through life (CV) ⛵</a></h3>
 
   <p>
     🎮 🏂🏻 🏋️‍♂️ 🧘🏼‍♂️ 🏃‍♂️ 🧗 🏊🏻‍♂️ 🏄‍♂️
